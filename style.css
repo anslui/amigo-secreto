@@ -133,6 +133,9 @@ ul {
     font-size: 18px;
     margin: 20px 0;
 }
+.name-list{
+    text-align: center;
+}
 
 .result-list {
     margin-top: 15px;
